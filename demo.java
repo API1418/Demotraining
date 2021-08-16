@@ -25,3 +25,4 @@ public class Demo {
 world
 hello again
 hello from bitbucket*/
+cd C:\Users\saylishrungare\Desktop\Training
