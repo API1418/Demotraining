@@ -17,6 +17,7 @@ public class Demo {
 		System.out.println("I am Line No 13 for Jenkins");
 		System.out.println("I am Line No 14 for Jenkins");
 		System.out.println("I am Line No 15 for Jenkins using push");
+		System.out.println("I am Line No 15 for Jenkins build triggers");
     	}
 }
 /*hello
